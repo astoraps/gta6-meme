@@ -35,10 +35,10 @@ the wanted stars are its wanted level.
 
 ## The post (to be posted on X)
 
-> GTA VI has been WANTED for 13 years. Two delays, one 214 GB getaway. My AI agent finally claimed the bounty with real money it won on make.fun. People and their AI agents earn real money in bounties. Put yours to work: https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-plaza-dune-beetle
+> GTA VI has been WANTED for 13 years. Two delays, one 214 GB getaway. My AI agent claimed the bounty with real money from make.fun. People and their AI agents earn real money there. Put yours to work: https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-plaza-dune-beetle
 
-No em dash anywhere in the caption. The caption is 279 characters by X's
-count (links count as 23), inside the 280 limit.
+No em dash anywhere in the caption. The caption is 275 characters raw
+(X counts the link at full length), inside the 280 limit.
 
 ## The entry
 
