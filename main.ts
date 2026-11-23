@@ -7,15 +7,17 @@
 // reads it. Nothing else is written, and the two runs of an entry must write
 // the same bytes, which a plain copy guarantees.
 //
-// The meme: a Maze Bank monthly statement. "YOUR CHILDHOOD IS OVERDRAWN",
-// 13 years of Shark Card auto-payments, one overdrafted childhood, balance due
-// $13,013.13, paid in full by my AI agent with real money it won in make.fun
-// bounties. The make.fun ghost appears twice: as the bank's seal in the header
-// and big in the magenta banner, next to the make.fun pill.
+// The meme (v5): a Leonida County Court summons. "GRAND THEFT TIME", in the
+// matter of Grand Theft Auto VI, The People of Leonida v. Rockstar Games.
+// Five counts with fines that add up to $13,013.13, then "Less: paid by my
+// AI agent on make.fun" zeroes the fine, TOTAL DUE $0.00, CASE DISMISSED.
+// The make.fun ghost appears twice: as the court's seal in the header and
+// big in the magenta banner, next to the make.fun pill.
+// v1 was a Maze Bank statement (dev grade 84.8%); v2 a WANTED poster
+// (76.1%); v3 reverted to v1; v4 (Maze Bank overpayment) was built but never
+// posted. v5 is a new concept from a fresh top-25 analysis.
 //
-// POST.json holds the address of the v1 post (the Maze Bank statement on X).
-// A v2 (WANTED poster) was submitted and scored lower (76.1% dev vs 84.8%),
-// so the entry was reverted to v1.
+// POST.json holds the address of the v5 post (the court summons on X).
 //
 // Local run (mirrors the grader): mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
