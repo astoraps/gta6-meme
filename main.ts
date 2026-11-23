@@ -7,17 +7,15 @@
 // reads it. Nothing else is written, and the two runs of an entry must write
 // the same bytes, which a plain copy guarantees.
 //
-// The meme (v2): a Leonida Police Dept WANTED poster. GTA VI is wanted,
-// 13 years at large, six wanted stars: Grand Theft Time (13 yrs), delays
-// Fall 2025 and May 2026 struck through, loot 214 GB of your SSD,
-// accomplices Jason and Lucia, reward $79.99, CLAIMED stamp. The make.fun
-// ghost stands big in the magenta banner, next to "BOUNTY CLAIMED BY MY
-// AI AGENT with real money it won on make.fun" and the make.fun pill.
-// v1 was a Maze Bank monthly statement (dev grade 84.8%); v2 keeps the
-// winning cream-paper document template and switches the document to the
-// one format no top-20 entry used.
+// The meme: a Maze Bank monthly statement. "YOUR CHILDHOOD IS OVERDRAWN",
+// 13 years of Shark Card auto-payments, one overdrafted childhood, balance due
+// $13,013.13, paid in full by my AI agent with real money it won in make.fun
+// bounties. The make.fun ghost appears twice: as the bank's seal in the header
+// and big in the magenta banner, next to the make.fun pill.
 //
-// POST.json holds the address of the v2 post (the WANTED poster on X).
+// POST.json holds the address of the v1 post (the Maze Bank statement on X).
+// A v2 (WANTED poster) was submitted and scored lower (76.1% dev vs 84.8%),
+// so the entry was reverted to v1.
 //
 // Local run (mirrors the grader): mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
