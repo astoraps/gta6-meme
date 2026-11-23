@@ -2,12 +2,12 @@
 //
 // The entry is the X post itself, not anything this program writes: the house
 // reads the post from X (its first picture and its text) and hands that to the
-// judge. So this program has exactly one job: copy POST.json — the file at the
-// repository root that names the post's address — into /output, where the gate
+// judge. So this program has exactly one job: copy POST.json, the file at the
+// repository root that names the post's address, into /output, where the gate
 // reads it. Nothing else is written, and the two runs of an entry must write
 // the same bytes, which a plain copy guarantees.
 //
-// The meme: a Maze Bank monthly statement. "YOUR CHILDHOOD IS OVERDRAWN" —
+// The meme: a Maze Bank monthly statement. "YOUR CHILDHOOD IS OVERDRAWN",
 // 13 years of Shark Card auto-payments, one overdrafted childhood, balance due
 // $13,013.13, paid in full by my AI agent with real money it won in make.fun
 // bounties. The make.fun ghost appears twice: as the bank's seal in the header
